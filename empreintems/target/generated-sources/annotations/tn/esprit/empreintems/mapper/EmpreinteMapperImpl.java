@@ -6,7 +6,7 @@ import tn.esprit.empreintems.entity.Empreinte;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2024-07-19T22:22:53+0100",
+    date = "2024-07-20T03:31:47+0100",
     comments = "version: 1.5.2.Final, compiler: javac, environment: Java 17.0.8 (Oracle Corporation)"
 )
 public class EmpreinteMapperImpl implements EmpreinteMapper {
